@@ -1,0 +1,30 @@
+{
+  "name": "jwtauth_frontend",
+  "version": "1.0.0",
+  "description": "An exercise project of tutorial: https://scotch.io/tutorials/token-based-authentication-for-angularjs-and-laravel-apps",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-ui-router": "^0.2.15",
+    "bootstrap": "^3.3.6",
+    "satellizer": "^0.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zc1415926/JwtAuth_frontend.git"
+  },
+  "keywords": [
+    "jwt",
+    "angular"
+  ],
+  "author": "zc1415926",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zc1415926/JwtAuth_frontend/issues"
+  },
+  "homepage": "https://github.com/zc1415926/JwtAuth_frontend#readme"
+}
